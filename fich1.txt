@@ -1,0 +1,2 @@
+#Titulo fich1.txt
+#SubTitulo fich1.txt
